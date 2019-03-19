@@ -24,10 +24,10 @@ require('header.php');
                  </thead>
                  <tbody>
                    <tr>
-                     <td>KATAM ANIL KUMAR</td>
-                     <td>MTECH - CSE</td>
-                     <td>9393767927</td>
-                     <td>anilkumark232@gmail.com</td>
+                     <td>ESWARAIAH SAPRAM</td>
+                     <td>MCA - CSE</td>
+                     <td>8886028146</td>
+                     <td>androeswar39@gmail.com</td>
                    </tr>
                    <tr>
                      <td></td>
